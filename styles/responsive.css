@@ -127,7 +127,7 @@
 	}
 	.home_slider_nav_container
 	{
-		top: -51px;
+		top: -45px;
 	}
 	.featured
 	{
@@ -365,6 +365,8 @@
 		left: 0;
 		width: 100%;
 	}
+
+	
 	.home_title
 	{
 		font-size: 36px;
