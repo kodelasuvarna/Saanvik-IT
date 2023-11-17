@@ -191,3 +191,18 @@ label span.text-checkbox {
 label input[type="checkbox"] {
   display: none;
 }
+.google-button {
+  background-color: #3b5998;
+  border-width: 0;
+  border-radius: 50px;
+  color: white;
+  font-size: 16px;
+  padding: 12px 35px;
+  margin-left: 8px;
+
+  display: inline-block;
+
+  outline: 0;
+  height: 49px;
+  width: 180px;
+}
