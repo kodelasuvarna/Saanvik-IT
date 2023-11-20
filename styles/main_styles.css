@@ -487,7 +487,7 @@ section {
   background: #ff8a00;
 }
 .hover:hover {
-  background: seagreen !important;
+  background: #ff8a00 !important;
 }
 
 .search_button {
@@ -649,7 +649,7 @@ section {
 }
 .menu_nav ul li a {
   font-size: 16px;
-  color: #2c2b31;
+  color: #ff6600;
   font-weight: 700;
   letter-spacing: 0.05em;
   -webkit-transition: all 200ms ease;
@@ -804,45 +804,17 @@ section {
   left: 0;
   width: 100%;
   height: 100%;
-
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
+
 @media (max-width: 1400px) {
   .home_slider_background {
     width: 100%;
   }
 }
 
-
-/*@media screen and (min-width: 0px) and (max-width: 576px) {
-  .home {
-    width: 100%;
-  }
-}
-@media screen and (min-width: 577px) and (max-width: 768px) {
-  .home {
-    width: 100%;
-    height:25vh;
-  }
-}
-@media screen and (min-width: 769px) and (max-width: 992px) {
-  .home {
-    width: 100%;
-  }
-}
-@media screen and (min-width: 993px) and (max-width: 1200px) {
-  .home {
-    width: 100%;
-  }
-}
-@media screen and (min-width: 1201px) and (max-width: 1400px) {
-  .home {
-    width: 100%;
-  }
-}
-*/
 
 .home_background {
   position: absolute;
@@ -1715,9 +1687,8 @@ section {
   color: #6c6a74;
   margin-top: 3px;
 }
-@media (max-width:476px){
-  .home{
-    height:25vh;
-
+@media (max-width: 476px) {
+  .home {
+    height: 25vh;
   }
 }

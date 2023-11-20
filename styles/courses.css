@@ -640,7 +640,7 @@ section {
 }
 .menu_nav ul li a {
   font-size: 16px;
-  color: #2c2b31;
+  color: #ff6600;
   font-weight: 700;
   letter-spacing: 0.05em;
   -webkit-transition: all 200ms ease;
@@ -1287,5 +1287,5 @@ section {
 }
 
 .hover:hover {
-  background: seagreen !important;
+  background: #ff8a00 !important;
 }
