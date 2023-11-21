@@ -429,9 +429,9 @@ section {
   font-size: 18px;
   font-weight: 700;
   line-height: 0.75;
-  margin-left: 1px;
+  margin-left: 0px;
   color: #464646;
-  text-transform: uppercase;
+
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;

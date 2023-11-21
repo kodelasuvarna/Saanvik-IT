@@ -984,6 +984,7 @@ section {
 .featured_tag:hover {
   background: #2c2b31;
 }
+
 .featured_tag a {
   display: block;
   padding-left: 21px;
