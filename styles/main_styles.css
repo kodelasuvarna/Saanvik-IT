@@ -815,7 +815,6 @@ section {
   }
 }
 
-
 .home_background {
   position: absolute;
   top: 0;
@@ -1607,7 +1606,7 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 108px;
+  padding-top: 70px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
