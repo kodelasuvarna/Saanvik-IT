@@ -179,9 +179,26 @@
   .search_button {
     display: none;
   }
-  .home_slider_nav_container {
-    display: none !important;
+  @media only screen and (max-width: 767px) {
+    .top_bar {
+      display: none;
+    }
+    .header.scrolled {
+      top: 0px;
+    }
+    .search_button {
+      display: none;
+    }
+  
+    .course_search_form > div {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    .video_container_outer {
+      height: 287px;
+    }
   }
+  
   .course_search_form > div {
     width: 100%;
     margin-bottom: 15px;
@@ -190,7 +207,6 @@
     height: 287px;
   }
 }
-
 /************
 11. 575px
 ************/

@@ -433,7 +433,6 @@ section {
 .logo_img img {
   width: 180px;
   height: 70px;
- 
 }
 
 .logo_text {
@@ -867,7 +866,7 @@ section {
 .home_slider_nav_container {
   position: absolute;
   left: 0px;
-  top: 280px;
+  top: 240px;
   width: 35px;
   height: 51px;
   background: #ff9f40;
@@ -876,16 +875,17 @@ section {
 .home_slider_nav_container1 {
   position: absolute;
   right: 0px;
-  top: 280px;
+  top: 240px;
   width: 35px;
   height: 51px;
   background: #ff9f40;
   z-index: 3;
 }
+
 .home_slider_nav {
   width: 51px;
   height: 51px;
-  line-height: 51px;
+  line-height: 41px;
   text-align: center;
   background: #ff8a00;
   cursor: pointer;
