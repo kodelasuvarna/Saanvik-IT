@@ -636,6 +636,7 @@ section {
 }
 .logo_img img {
   width: 180px;
+  height: 70px;
 }
 .menu_nav ul li {
   margin-bottom: 9px;

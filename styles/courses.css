@@ -1285,6 +1285,7 @@ section {
 }
 .logo_img img {
   width: 180px;
+  height: 70px;
 }
 
 .hover:hover {
