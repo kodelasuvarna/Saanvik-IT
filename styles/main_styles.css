@@ -863,7 +863,7 @@ section {
 .home_slider_nav_container {
   position: absolute;
   left: 0px;
-  top: 240px;
+  top: 220px;
   width: 35px;
   height: 51px;
   background: #ff9f40;
@@ -872,7 +872,7 @@ section {
 .home_slider_nav_container1 {
   position: absolute;
   right: 0px;
-  top: 240px;
+  top: 220px;
   width: 35px;
   height: 51px;
   background: #ff9f40;
@@ -880,7 +880,7 @@ section {
 }
 @media (max-width: 476px) {
   .home_slider_nav_container1 {
-    top: 240px;
+    top: 220px;
   }
 }
 .home_slider_nav {

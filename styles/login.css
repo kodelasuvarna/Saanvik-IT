@@ -35,14 +35,14 @@ body {
   color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("https://i.pinimg.com/736x/5d/73/ea/5d73eaabb25e3805de1f8cdea7df4a42--tumblr-backgrounds-iphone-phone-wallpapers-iphone-wallaper-tumblr.jpg");
+
   overflow: hidden;
 }
 .box-form .left .overlay {
   padding: 30px;
   width: 100%;
   height: 100%;
-  background: #5961f9ad;
+  background: #ff8a00;
   overflow: hidden;
   box-sizing: border-box;
 }
