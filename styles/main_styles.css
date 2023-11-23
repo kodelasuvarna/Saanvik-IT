@@ -430,10 +430,6 @@ section {
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
 }
-.logo_img img {
-  width: 180px;
-  height: 70px;
-}
 
 .logo_text {
   font-family: "Montserrat", serif;

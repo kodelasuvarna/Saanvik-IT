@@ -94,10 +94,10 @@ p a:active {
   position: relative;
   color: #ff6347;
 }
-.logo_img img {
+/*.logo_img img {
   width: 180px;
   height: 70px;
-}
+}*/
 p a:hover {
   color: #ffffff;
   background: #ffa07f;
@@ -573,7 +573,6 @@ section {
 4. Menu
 *********************************/
 
-
 .menu {
   position: fixed;
   top: 0;
@@ -1005,7 +1004,6 @@ section {
   width: 100%;
   height: calc(100% + 30px);
 }
-
 /*********************************
 7. Footer
 *********************************/
@@ -1013,7 +1011,7 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top:70px;
+  padding-top: 70px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
@@ -1095,4 +1093,15 @@ section {
 }
 .hover:hover {
   background: #ff8a00 !important;
+}
+.google-map {
+  padding-bottom: 27%;
+
+  height: 100%;
+  width: 100%;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
 }
