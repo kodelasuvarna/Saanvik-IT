@@ -1609,12 +1609,12 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 70px;
+  padding-top: 108px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
   position: absolute;
-  top: -10px;
+  top: -70px;
   left: 0;
 }
 .footer_about_text {
@@ -1693,4 +1693,7 @@ section {
   .home {
     height: 25vh;
   }
+}
+.logo_img img {
+  width: 180px;
 }

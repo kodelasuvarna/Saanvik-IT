@@ -1201,12 +1201,12 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 70px;
+  padding-top: 108px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
   position: absolute;
-  top: -10px;
+  top: -70px;
   left: 0;
 }
 .footer_about_text {
@@ -1281,7 +1281,11 @@ section {
   color: #6c6a74;
   margin-top: 3px;
 }
-
-.hover:hover {
-  background: #ff8a00 !important;
+@media (max-width: 476px) {
+  .home {
+    height: 25vh;
+  }
+}
+.logo_img img {
+  width: 180px;
 }
