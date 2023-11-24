@@ -189,7 +189,7 @@
     .search_button {
       display: none;
     }
-  
+
     .course_search_form > div {
       width: 100%;
       margin-bottom: 15px;
@@ -198,7 +198,7 @@
       height: 287px;
     }
   }
-  
+
   .course_search_form > div {
     width: 100%;
     margin-bottom: 15px;
@@ -463,4 +463,14 @@
 ************/
 
 @media only screen and (max-width: 400px) {
+}
+@media (max-width: 476px) {
+  .home_slider_nav_container1 {
+    top: 240px;
+  }
+}
+@media (max-width: 476px) {
+  .home_slider_nav_container {
+    top: 240px;
+  }
 }
