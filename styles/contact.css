@@ -579,7 +579,7 @@ section {
   right: -400px;
   width: 400px;
   height: 100vh;
-  background: goldenrod;
+  background: #ff8a00;
   z-index: 101;
   padding-right: 60px;
   padding-top: 87px;
@@ -642,7 +642,7 @@ section {
 
 .menu_nav ul li a {
   font-size: 16px;
-  color: grey;
+  color: #2c2b31;
   font-weight: 600;
   letter-spacing: 0.05em;
   -webkit-transition: all 200ms ease;
