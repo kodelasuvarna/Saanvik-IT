@@ -1685,11 +1685,11 @@ section {
   color: #6c6a74;
   margin-top: 3px;
 }
-@media (max-width: 476px) {
+/*@media (max-width: 476px) {
   .home {
     height: 25vh;
   }
-}
+}*/
 .logo_img img {
   width: 180px;
 }
