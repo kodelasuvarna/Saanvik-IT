@@ -237,9 +237,7 @@
   .logo_img {
     width: 40px;
   }
-  .logo_img img {
-    max-width: 100%;
-  }
+
   .logo_text {
     font-size: 12px;
     -webkit-transform: translateY(-1px);
