@@ -1648,8 +1648,8 @@ section {
 .copyright {
   font-size: 14px;
   font-weight: 500;
-  color: #b3b3b3;
-  margin-top: 70px;
+  color: rgb(145, 145, 249);
+  margin-top: 10px;
 }
 .footer_title {
   font-size: 16px;
