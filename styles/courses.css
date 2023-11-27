@@ -1235,13 +1235,13 @@ section {
   color: #ffae00;
 }
 .copyright {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
-  color: #b3b3b3;
-  margin-top: 70px;
+  color: rgb(145, 145, 249);
+  margin-top: 10px;
 }
 .footer_title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: #44425a;
 }
@@ -1252,7 +1252,7 @@ section {
   margin-bottom: 15px;
 }
 .footer_list li a {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #6c6a74;
   -webkit-transition: all 200ms ease;
@@ -1277,7 +1277,7 @@ section {
   color: #ff6600;
 }
 .footer_contact_line {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #6c6a74;
   margin-top: 3px;
