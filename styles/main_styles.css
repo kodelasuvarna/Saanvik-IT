@@ -47,7 +47,7 @@
 }
 body {
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   background: #ffffff;
   color: #6c6a74;
@@ -835,6 +835,7 @@ section {
 .home_logo img {
   max-width: 100%;
 }
+
 .home_text {
   margin-top: -55px;
 }
@@ -1393,7 +1394,7 @@ section {
 .accordion_panel p {
   padding-top: 33px;
   color: #6c6a74;
-  line-height: 2.2;
+  line-height: 1.928;
 }
 
 /*********************************
@@ -1618,7 +1619,7 @@ section {
 }
 .footer .logo_container {
   position: absolute;
-  top: -70px;
+  top: -20px;
   left: 0;
 }
 .footer_about_text {
@@ -1634,7 +1635,7 @@ section {
   margin-right: 24px;
 }
 .footer_social ul li a i {
-  font-size: 16px;
+  font-size: 15px;
   color: #ff6600;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
@@ -1652,7 +1653,7 @@ section {
   margin-top: 10px;
 }
 .footer_title {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: #44425a;
 }
@@ -1663,7 +1664,7 @@ section {
   margin-bottom: 15px;
 }
 .footer_list li a {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 500;
   color: #6c6a74;
   -webkit-transition: all 200ms ease;
@@ -1688,7 +1689,7 @@ section {
   color: #ff6600;
 }
 .footer_contact_line {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   color: #6c6a74;
   margin-top: 3px;

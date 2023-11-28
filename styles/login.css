@@ -9,8 +9,8 @@ body {
 }
 
 .box-form {
-  margin: 150px 150px 0px 100px;
-  width: 80%;
+  /* margin: 150px 150px 0px 100px;*/
+  width: 100%;
   background: #ffffff;
   border-radius: 10px;
   overflow: hidden;
