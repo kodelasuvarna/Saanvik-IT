@@ -850,8 +850,10 @@ section {
 .news_post_image {
   width: 100%;
 }
+
 .news_post_image img {
-  max-width: 100%;
+  max-width: 80%;
+  
 }
 .news_post_body {
   padding-top: 42px;
@@ -867,7 +869,7 @@ section {
   margin-top: 6px;
 }
 .news_post_title a {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 600;
   color: #44425a;
   -webkit-transition: all 200ms ease;
@@ -930,10 +932,10 @@ section {
   color: #ff5c00;
 }
 .news_post_text {
-  margin-top: 38px;
+  margin-top: 24px;
 }
 .news_post_link {
-  margin-top: 34px;
+  margin-top: 12px;
 }
 .news_post_link a {
   position: relative;
@@ -1063,7 +1065,7 @@ section {
   margin-top: 75px;
 }
 .sidebar_links {
-  padding-left: 43px;
+  padding-left: 96px;
   margin-top: 58px;
 }
 .sidebar_links ul li:not(:last-child) {
@@ -1147,7 +1149,7 @@ section {
 .sidebar_elearn {
   margin-top: 82px;
 }
-.elearn {
+.learn {
   width: 100%;
   height: 369px;
   padding-top: 81px;
@@ -1155,7 +1157,7 @@ section {
   padding-bottom: 84px;
   padding-right: 64px;
 }
-.elearn_background {
+.learn_background {
   position: absolute;
   top: 0;
   left: 0;
@@ -1165,7 +1167,7 @@ section {
   background-size: cover;
   background-position: center center;
 }
-.elearn_content {
+.learn_content {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.83);
@@ -1174,15 +1176,15 @@ section {
   padding-right: 40px;
   text-align: center;
 }
-.elearn_line {
+.learn_line {
   font-size: 24px;
   font-weight: 600;
   color: #ffffff;
 }
-.elearn_link {
+.learn_link {
   margin-top: 19px;
 }
-.elearn_link a {
+.learn_link a {
   position: relative;
   font-size: 16px;
   font-weight: 600;
@@ -1193,7 +1195,7 @@ section {
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
 }
-.elearn_link a::after {
+.learn_link a::after {
   display: block;
   position: absolute;
   bottom: 0;
@@ -1208,10 +1210,10 @@ section {
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
 }
-.elearn_link a:hover {
+.learn_link a:hover {
   color: #e95a5a;
 }
-.elearn_link a:hover::after {
+.learn_link a:hover::after {
   background: #e95a5a;
 }
 .dcount {
