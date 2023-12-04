@@ -222,7 +222,7 @@
     height: 47px;
   }
   .header_content {
-    height: 50px;
+    height: -15px;
   }
   .header.scrolled .header_content {
     height: 50px;

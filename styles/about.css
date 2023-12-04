@@ -42,7 +42,7 @@
 }
 body {
   font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-size: 1rem;
   font-weight: 500;
   background: #ffffff;
   color: #6c6a74;
@@ -60,7 +60,7 @@ ul {
 }
 p {
   font-family: "Montserrat", sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.928;
   font-weight: 500;
   color: #6c6a74;

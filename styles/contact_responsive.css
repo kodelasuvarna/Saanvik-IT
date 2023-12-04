@@ -260,7 +260,7 @@
     height: 47px;
   }
   .header_content {
-    height: 50px;
+    height: -15px;
   }
   .header.scrolled .header_content {
     height: 50px;
@@ -268,7 +268,7 @@
   .logo_img {
     width: 40px;
   }
-  
+
   .logo_text {
     font-size: 12px;
     -webkit-transform: translateY(-1px);
