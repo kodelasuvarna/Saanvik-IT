@@ -853,10 +853,9 @@ section {
 
 .news_post_image img {
   max-width: 80%;
-  
 }
 .news_post_body {
-  padding-top: 42px;
+  padding-top: 62px;
   padding-bottom: 49px;
 }
 .news_post_date a {
@@ -1057,12 +1056,12 @@ section {
   color: #ff8a00;
 }
 .sidebar_title {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 700;
   color: #44425a;
 }
 .sidebar_categories {
-  margin-top: 75px;
+  margin-top: 105px;
 }
 .sidebar_links {
   padding-left: 96px;
@@ -1248,7 +1247,7 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 50px;
+  padding-top: 60px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
@@ -1318,8 +1317,8 @@ section {
   margin-bottom: 23px;
 }
 .footer_contact_title {
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   color: #ff6600;
 }
 .footer_contact_line {

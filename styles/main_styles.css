@@ -67,8 +67,7 @@ ul {
 p {
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
-  line-height: 1.928
-  ;
+  line-height: 1.928;
   font-weight: 500;
   color: #6c6a74;
   -webkit-font-smoothing: antialiased;
@@ -290,11 +289,11 @@ section {
 .button:hover .button_arrow i {
   color: #ffae00;
 }
-.section_title h2 {
+.section_title h3 {
   font-weight: 600;
 }
 .section_subtitle {
-  font-size: 14px;
+  font-size: 16px;
   color: #6c6a74;
   text-align: center;
   margin-top: 66px;
@@ -1300,7 +1299,7 @@ section {
 .grouped_sections {
   width: 100%;
   background: #ffffff;
-  padding-top: 30px;
+  padding-top: 50px;
   /*padding-bottom: 100px;*/
   padding-bottom: 50px;
 }
@@ -1311,7 +1310,7 @@ section {
 }
 .accordions {
   /*margin-top: 58px;*/
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 10px;
 }
 .accordion_container:not(:last-child) {
@@ -1404,8 +1403,7 @@ section {
 
 .events {
   width: 100%;
-  /* margin-top: 58px;*/
-  margin-top: 20px;
+  margin-top: 40px;
 }
 .event {
   width: 100%;
@@ -1468,7 +1466,7 @@ section {
 .news {
   width: 100%;
   /*margin-top: 58px;*/
-  margin-top: 20px;
+  margin-top: 40px;
 }
 .news_post {
   width: 100%;
@@ -1481,7 +1479,8 @@ section {
   height: 72px;
 }
 .news_post_image img {
-  max-width: 100%;
+  max-width: 180px;
+  padding-right: 65px;
 }
 .news_post_body {
   padding-left: 25px;
@@ -1590,7 +1589,7 @@ section {
 .join {
   width: 100%;
   background: #ffffff;
-  padding-top: 91px;
+  padding-top: 30px;
   padding-bottom: 82px;
   text-align: center;
 }
@@ -1605,7 +1604,8 @@ section {
   -ms-transform: translateX(-50%);
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
-  bottom: -24px;
+  margin-top: 30px;
+  bottom: 20px;
 }
 
 /*********************************
@@ -1615,7 +1615,7 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 50px;
+  padding-top: 60px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
@@ -1685,8 +1685,8 @@ section {
   margin-bottom: 23px;
 }
 .footer_contact_title {
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   color: #ff6600;
 }
 .footer_contact_line {

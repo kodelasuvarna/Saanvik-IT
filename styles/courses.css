@@ -1201,7 +1201,7 @@ section {
 .footer {
   width: 100%;
   background: #f2f1f8;
-  padding-top: 50px;
+  padding-top: 60px;
   padding-bottom: 90px;
 }
 .footer .logo_container {
@@ -1271,8 +1271,8 @@ section {
   margin-bottom: 23px;
 }
 .footer_contact_title {
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   color: #ff6600;
 }
 .footer_contact_line {
