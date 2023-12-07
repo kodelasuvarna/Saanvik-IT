@@ -1616,7 +1616,7 @@ section {
   width: 100%;
   background: #f2f1f8;
   padding-top: 60px;
-  padding-bottom: 90px;
+  /*padding-bottom: 90px;*/
 }
 .footer .logo_container {
   position: absolute;
@@ -1657,6 +1657,7 @@ section {
   font-size: 15px;
   font-weight: 600;
   color: #44425a;
+  border-bottom: solid gray 1px;
 }
 .footer_list {
   margin-top: 26px;
@@ -1702,4 +1703,14 @@ section {
 }
 .logo_img img {
   width: 180px;
+}
+.copy_right {
+  background-color: #e9e8ef;
+  height: 80px;
+  width: 100%;
+  padding-top: 30px;
+  font-size: 12px;
+  margin-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
 }

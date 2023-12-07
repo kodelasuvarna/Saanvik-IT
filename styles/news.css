@@ -849,6 +849,7 @@ section {
 }
 .news_post_image {
   width: 100%;
+  padding-left: 50px;
 }
 
 .news_post_image img {
@@ -1248,7 +1249,7 @@ section {
   width: 100%;
   background: #f2f1f8;
   padding-top: 60px;
-  padding-bottom: 90px;
+  
 }
 .footer .logo_container {
   position: absolute;
@@ -1279,16 +1280,13 @@ section {
 .footer_social ul li a i:hover {
   color: #ffae00;
 }
-.copyright {
-  font-size: 14px;
-  font-weight: 500;
-  color: rgb(145, 145, 249);
-  margin-top: 10px;
-}
+
 .footer_title {
   font-size: 15px;
   font-weight: 600;
   color: #44425a;
+  border-bottom: solid gray 1px;
+  flex: right;
 }
 .footer_list {
   margin-top: 26px;
@@ -1326,6 +1324,16 @@ section {
   font-weight: 500;
   color: #6c6a74;
   margin-top: 3px;
+}
+.copy_right {
+  background-color: #e9e8ef;
+  height: 80px;
+  width: 100%;
+  padding-top: 30px;
+  font-size: 12px;
+  margin-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 @media (max-width: 476px) {
   .home {
