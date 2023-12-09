@@ -791,26 +791,25 @@ section {
   width: 100%;
   height: 100vh;
 }
+.carousel-item img {
+  background-color: rgb(162, 255, 162);
+}
 
 .home_slider_container {
   width: 100%;
-  height: 80%;
-  /* margin-top: 30px;*/
-  background-color: rgb(137, 249, 137);
+  height: 20%;
 }
-.home_slider_background img {
-  width: 500px;
-}
-/*.home_slider_background {
+
+.home_slider_background {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 60px;
+  height: 85%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-}*/
+}
 
 @media (max-width: 1400px) {
   .home_slider_background {
