@@ -791,10 +791,7 @@ section {
   width: 100%;
   height: 100vh;
 }
-/*.carousel-item img {
-  background-color: rgb(162, 255, 162);
-  height: 90vh;
-}*/
+
 
 .home_slider_container {
   width: 100%;
@@ -806,11 +803,12 @@ section {
   top: 0;
   left: 0;
   width: 100%;
-  height: 85%;
+  height:90%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   background-color: rgb(162, 255, 162);
+  
 }
 
 @media (max-width: 1400px) {
@@ -1707,7 +1705,7 @@ section {
 }
 @media (max-width: 476px) {
   .home {
-    height: 25vh;
+    height: 35vh;
   }
 }
 .logo_img img {

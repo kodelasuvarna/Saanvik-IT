@@ -849,7 +849,7 @@ section {
 }
 .course_button {
   position: relative;
-  width: 224px;
+  width: 243px;
   height: 50px;
   border: none;
   outline: none;
@@ -1064,6 +1064,9 @@ section {
 .course {
   width: 100%;
   margin-bottom: 83px;
+}
+.courses_bg {
+  background-color: rgb(162, 255, 162);
 }
 .course::after {
   display: block;
