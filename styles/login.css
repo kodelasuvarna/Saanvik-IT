@@ -204,8 +204,4 @@ label input[type="checkbox"] {
   height: 49px;
   width: 180px;
 }
-@media (max-width: 476px) {
-  .box-form {
-    height: 100vh;
-  }
-}
+
