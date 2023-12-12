@@ -862,7 +862,7 @@ section {
   padding-right: 100px;
 }
 .contact_info_main_title {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   color: #44425a;
 }
@@ -1012,7 +1012,6 @@ section {
   width: 100%;
   background: #f2f1f8;
   padding-top: 60px;
-
 }
 .footer .logo_container {
   position: absolute;
@@ -1054,7 +1053,7 @@ section {
   padding-right: 15px;
 }
 .footer_title {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   color: #44425a;
   border-bottom: solid gray 1px;

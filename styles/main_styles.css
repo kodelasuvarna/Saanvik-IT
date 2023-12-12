@@ -806,7 +806,7 @@ section {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  background-color: rgb(162, 255, 162);
+  background-color:rgb(136, 136, 255);
 }
 
 @media (max-width: 1400px) {
@@ -1594,12 +1594,12 @@ section {
 .join {
   width: 100%;
   background: #ffffff;
-  padding-top: 30px;
+  /*padding-top: 30px;*/
   padding-bottom: 82px;
   text-align: center;
 }
 .join .section_subtitle {
-  margin-top: 36px;
+  margin-top: 20px;
 }
 .join_button {
   position: absolute;
@@ -1610,7 +1610,7 @@ section {
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
   margin-top: 30px;
-  bottom: 20px;
+  bottom: 28px;
 }
 
 /*********************************
@@ -1659,7 +1659,7 @@ section {
   margin-top: 10px;
 }
 .footer_title {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   color: #44425a;
   border-bottom: solid gray 1px;

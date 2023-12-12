@@ -59,7 +59,7 @@ ul {
 }
 p {
   font-family: "Montserrat", sans-serif;
-  font-size: 1 rem;
+  font-size: 1rem;
   line-height: 1.928;
   font-weight: 500;
   color: #6c6a74;
@@ -884,6 +884,7 @@ section {
 .news_post_meta {
   font-size: 14px;
   font-weight: 500;
+  padding-top: 15px;
 }
 .news_post_author,
 .news_post_author a {
@@ -1282,7 +1283,7 @@ section {
 }
 
 .footer_title {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 600;
   color: #44425a;
   border-bottom: solid gray 1px;
