@@ -1642,7 +1642,7 @@ section {
 }
 .footer_social ul li a i {
   font-size: 15px;
-  color: #ff6600;
+  color: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -1693,7 +1693,7 @@ section {
 .footer_contact_title {
   font-size: 15px;
   font-weight: 600;
-  color: #ff6600;
+  color: yellowgreen;
 }
 .footer_contact_line {
   font-size: 14px;
