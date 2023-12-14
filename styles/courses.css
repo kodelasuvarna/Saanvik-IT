@@ -92,18 +92,18 @@ a:link {
 }
 p a:active {
   position: relative;
-  color: #ff6347;
+  color: yellowgreen;
 }
 
 p a:hover {
   color: #ffffff;
-  background: #ffa07f;
+  background: yellowgreen;
 }
 p a:hover::after {
   opacity: 0.2;
 }
 ::selection {
-  background: #ff8a00;
+  background: yellowgreen;
   color: #ffffff;
 }
 p::selection {
@@ -143,7 +143,7 @@ h5::selection,
 h6::selection {
 }
 .form-control {
-  color: #db5246;
+  color: yellowgreen;
 }
 section {
   display: block;
@@ -229,7 +229,7 @@ section {
   display: inline-block;
   width: auto;
   height: 47px;
-  background: #ff8a00;
+  background: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -254,7 +254,7 @@ section {
   right: 0;
   width: 44px;
   height: 100%;
-  background: #ff6600;
+  background: yellowgreen;
   text-align: center;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
@@ -265,7 +265,7 @@ section {
 .button_arrow i {
   font-size: 20px;
   line-height: 47px;
-  color: #ffae00;
+  color: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -273,13 +273,13 @@ section {
   transition: all 200ms ease;
 }
 .button:hover {
-  background: #ffae00;
+  background: yellowgreen;
 }
 .button:hover .button_arrow {
-  background: #ff8a00;
+  background: yellowgreen;
 }
 .button:hover .button_arrow i {
-  color: #ffae00;
+  color: yellowgreen;
 }
 .section_title h2 {
   font-weight: 700;
@@ -375,7 +375,7 @@ section {
   transition: all 200ms ease;
 }
 .top_bar_login ul li a:hover {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 .top_bar_login ul li:not(:last-child)::after {
   display: inline-block;
@@ -474,10 +474,10 @@ section {
 .main_nav li a:hover,
 .main_nav li.active a {
   color: #ffffff;
-  background: #ff8a00;
+  background: yellowgreen;
 }
 .main_nav li a:hover {
-  background: #ff8a00;
+  background: yellowgreen;
 }
 .search_button {
   margin-left: 88px;
@@ -493,7 +493,7 @@ section {
   transition: all 200ms ease;
 }
 .search_button:hover i {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 .header_search_form {
   display: block;
@@ -529,7 +529,7 @@ section {
   outline: none;
   padding-left: 20px;
   background: transparent;
-  border-bottom: solid 2px #ff8a00;
+  border-bottom: solid 2px yellowgreen;
   color: #ffffff;
 }
 .header_search_button {
@@ -563,7 +563,7 @@ section {
   transition: all 200ms ease;
 }
 .hamburger:hover i {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 
 /*********************************
@@ -576,7 +576,7 @@ section {
   right: -400px;
   width: 400px;
   height: 100vh;
-  background: #ff8a00;
+  background: yellowgreen;
   z-index: 101;
   padding-right: 60px;
   padding-top: 87px;
@@ -649,7 +649,7 @@ section {
   transition: all 200ms ease;
 }
 .menu_nav ul li a:hover {
-  color: #ff6600;
+  color: yellowgreen;
 }
 .menu .search {
   width: 100%;
@@ -710,7 +710,7 @@ section {
   color: rgba(0, 0, 0, 0.15) !important;
 }
 .menu .search_input:focus {
-  border-bottom: solid 2px #ff6600;
+  border-bottom: solid 2px yellowgreen;
 }
 .header_search_button {
   position: absolute;
@@ -736,7 +736,7 @@ section {
   transition: all 200ms ease;
 }
 .header_search_button:hover i {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 .menu_extra {
   position: absolute;
@@ -772,7 +772,7 @@ section {
   transition: all 200ms ease;
 }
 .menu_social ul li a i:hover {
-  color: #ff6600;
+  color: yellowgreen;
 }
 /*********************************
 5. Home
@@ -802,7 +802,7 @@ section {
 .breadcrumbs ul li {
   display: inline-block;
   position: relative;
-  color: #ff8a00;
+  color: yellowgreen;
   font-size: 12px;
   font-weight: 600;
 }
@@ -816,7 +816,7 @@ section {
   transition: all 200ms ease;
 }
 .breadcrumbs ul li a:hover {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 .breadcrumbs ul li:not(:last-child)::after {
   display: inline-block;
@@ -854,7 +854,7 @@ section {
   border: none;
   outline: none;
   cursor: pointer;
-  background: #ff8a00;
+  background: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -863,7 +863,7 @@ section {
 }
 .course_button .button_arrow {
   width: 47px;
-  background: #ff6600;
+  background: yellowgreen;
 }
 .course_button span:first-child {
   width: 100%;
@@ -876,10 +876,10 @@ section {
   text-transform: uppercase;
 }
 .course_button:hover {
-  background: #ffae00;
+  background: yellowgreen;
 }
 .course_button:hover .button_arrow {
-  background: #ff8a00;
+  background: yellowgreen;
 }
 .course_search_form > div {
   width: calc((100% - 284px) / 2);
@@ -900,7 +900,7 @@ section {
   bottom: 0;
   width: 100%;
   height: 3px;
-  background: #ff6600;
+  background: yellowgreen;
   content: "";
   visibility: hidden;
   opacity: 0;
@@ -967,12 +967,12 @@ section {
   bottom: 0;
   width: 100%;
   height: 3px;
-  background: #ff6600;
+  background: yellowgreen;
   content: "";
 }
 .featured_tag {
   height: 31px;
-  background: #ff6600;
+  background: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -996,7 +996,7 @@ section {
   display: inline-block;
   position: relative;
   font-size: 18px;
-  color: #ff6600;
+  color: yellowgreen;
   -webkit-transform: translateY(2px);
   -moz-transform: translateY(2px);
   -ms-transform: translateY(2px);
@@ -1016,7 +1016,7 @@ section {
   transition: all 200ms ease;
 }
 .featured_title h3 a:hover {
-  color: #ff6600;
+  color: yellowgreen;
 }
 .featured_text {
   margin-top: 18px;
@@ -1049,7 +1049,7 @@ section {
   transition: all 200ms ease;
 }
 .featured_author_name a:hover {
-  color: #ff6600;
+  color: yellow;
 }
 .featured_background {
   width: 100%;
@@ -1066,7 +1066,9 @@ section {
   margin-bottom: 83px;
 }
 .courses_bg {
-  background-color: rgb(162, 255, 162);
+  background-color:
+  rgba(11, 52, 75, 255);
+  ;
 }
 .course::after {
   display: block;
@@ -1075,7 +1077,7 @@ section {
   bottom: 0;
   width: 100%;
   height: 3px;
-  background: #ff6600;
+  background: yellowgreen;
   content: "";
 }
 .course_image {
@@ -1094,7 +1096,7 @@ section {
 }
 .course_tag {
   height: 31px;
-  background: #ff6600;
+  background: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -1118,7 +1120,7 @@ section {
   display: inline-block;
   position: relative;
   font-size: 18px;
-  color: #ff6600;
+  color: yellowgreen;
   -webkit-transform: translateY(2px);
   -moz-transform: translateY(2px);
   -ms-transform: translateY(2px);
@@ -1139,7 +1141,7 @@ section {
   transition: all 200ms ease;
 }
 .course_title h3 a:hover {
-  color: #ff6600;
+  color: yellowgreen;
 }
 .course_text {
   margin-top: 18px;
@@ -1172,7 +1174,7 @@ section {
   transition: all 200ms ease;
 }
 .course_author_name a:hover {
-  color: #ff6600;
+  color: yellow;
 }
 .courses_paginations {
 }
@@ -1194,7 +1196,7 @@ section {
 }
 .courses_paginations ul li a:hover,
 .courses_paginations ul li.active a {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 
 /*********************************
@@ -1225,7 +1227,7 @@ section {
 }
 .footer_social ul li a i {
   font-size: 15px;
-  color: #ff6600;
+  color: yellowgreen;
   -webkit-transition: all 200ms ease;
   -moz-transition: all 200ms ease;
   -ms-transition: all 200ms ease;
@@ -1269,7 +1271,7 @@ section {
   transition: all 200ms ease;
 }
 .footer_list li a:hover {
-  color: #ff8a00;
+  color: yellowgreen;
 }
 .footer_contact_info {
   padding-right: 70px;
@@ -1281,7 +1283,7 @@ section {
 .footer_contact_title {
   font-size: 15px;
   font-weight: 600;
-  color: #ff6600;
+  color: yellowgreen;
 }
 .footer_contact_line {
   font-size: 14px;

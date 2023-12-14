@@ -11,7 +11,7 @@ body {
 .box-form {
   /* margin: 150px 150px 0px 100px;*/
   width: 100%;
-  background: #ffffff;
+  background:   white;
   border-radius: 10px;
   overflow: hidden;
   display: flex;
@@ -40,7 +40,7 @@ body {
   padding: 30px;
   width: 100%;
   height: 100%;
-  background: rgb(254, 198, 124);
+  background:rgba(11, 52, 75, 255) ;
   overflow: hidden;
   box-sizing: border-box;
 }
@@ -92,7 +92,7 @@ body {
 }
 .box-form .text-account {
   font-family: robot;
-  color: tomato;
+  color: yellowgreen;
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
@@ -122,12 +122,12 @@ body {
 }
 .box-form .right button {
   float: right;
-  color: tomato;
+  color: yellowgreen;
   font-size: 16px;
   padding: 12px 35px;
   border-radius: 50px;
   display: inline-block;
-  border: 1px solid tomato;
+  border: 1px solid yellowgreen;
   outline: 0;
 
   background-image: linear-gradient(135deg, white 100%);
@@ -135,17 +135,17 @@ body {
 
 .box-form .right button:hover {
   color: #ffffff !important;
-  background: #ff8a00;
+  background: yellowgreen;
 }
 
 .box-form .right button a {
-  color: tomato;
+  color: yellowgreen;
   text-decoration: none;
 }
 
 .box-form .right button a:hover {
   color: #ffffff !important;
-  background: #ff8a00;
+  background: yellowgreen;
 }
 
 label {
@@ -159,7 +159,9 @@ label::before {
   position: absolute;
   font-family: FontAwesome;
   background: transparent;
-  border: 3px solid tomato;
+  border: 3px solid 
+
+  rgba(11, 52, 75, 255);
   border-radius: 4px;
   color: transparent;
   left: -30px;
@@ -171,7 +173,7 @@ label:hover::before {
   content: " \f00c";
   color: #fff;
   cursor: pointer;
-  background: tomato;
+  background: yellowgreen;
 }
 
 label:hover::before .text-checkbox {
