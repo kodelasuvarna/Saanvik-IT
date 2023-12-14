@@ -657,7 +657,7 @@ section {
   transition: all 200ms ease;
 }
 .menu_nav ul li a:hover {
-  color: yellowgreen;
+  color:tomato;
 }
 .menu .search {
   width: 100%;
@@ -691,6 +691,9 @@ section {
   -ms-transition: all 200ms ease;
   -o-transition: all 200ms ease;
   transition: all 200ms ease;
+}
+.menu .search_input :hover{
+  border-bottom: solid 2px tomato;
 }
 .menu .search_input::-webkit-input-placeholder {
   font-size: 14px !important;
@@ -744,7 +747,7 @@ section {
   transition: all 200ms ease;
 }
 .header_search_button:hover i {
-  color: yellowgreen;
+  color: tomato;
 }
 .menu_extra {
   position: absolute;
